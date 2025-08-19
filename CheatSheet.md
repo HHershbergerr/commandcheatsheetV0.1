@@ -1,5 +1,6 @@
 ###Cheat Sheet###
 
-```screen -S minecraft ./start.sh
+```
+screen -S minecraft ./start.sh
 ```
 
